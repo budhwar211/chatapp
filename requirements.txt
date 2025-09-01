@@ -20,4 +20,5 @@ python-multipart
 jinja2
 langsmith
 feedparser
+pandas
 playwright
